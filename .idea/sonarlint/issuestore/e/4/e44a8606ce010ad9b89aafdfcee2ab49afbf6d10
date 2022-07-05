@@ -1,0 +1,9 @@
+
+n	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Í¸Ö¹8®¤–0
+n	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Í¸Ö¹8‰¥¤–0
+0
+java:S1220""Move this file to a named package.
+L
+java:S6212"/Declare this local variable with "var" instead.(¡„¬”8Á¿õ£–0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í¸Ö¹8®¤–0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í¸Ö¹8•¥¤–0
